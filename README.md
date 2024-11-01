@@ -20,6 +20,7 @@ Studied at Lahore Grammar School, Johar Town Branch, Lahore
 #### IT Head of a Private Initiative (Techniqui Inqalab)
 - Made Website for the Private Initiative
 - Taught Robotics to children in orphanages
+
 #### Completion of Courses
 - CS 50 - Harvard University
 - Introduction To Programming - Kaggle
@@ -39,6 +40,7 @@ Studied at Lahore Grammar School, Johar Town Branch, Lahore
 - Advanced SQL - Kaggle
 - Data Visualisation - Kaggle
 - Introduction to Quantum Computing - Qubit by Qubit
+
 # ExtraCurricular Activities
 - Created a Local AI Server that is usable by other devices
 - Integrated stated AI inside my note taking application for daily uses
@@ -52,6 +54,7 @@ Studied at Lahore Grammar School, Johar Town Branch, Lahore
 - Made C# Scripts in unity for character and camera control
 - Created an infographic on Quantum Phase Estimation
 - Made an article on Generative AI and how it affects our current world
+
 # Skills & Interests
 - Fluent in Urdu, English
 - Researching efficient and upcoming quantum algorithms and simplifying it for others
@@ -65,6 +68,7 @@ Studied at Lahore Grammar School, Johar Town Branch, Lahore
 - Beginner in Robotics
 - Intermediate in Python Scripting
 - Beginner in Bash Scripting
+
 # Honors & Awards
 - 75% merit-based scholarship score in Lahore Grammar School Johar Town Branch (LGS JT)
 - Accepted into Inspirit AI summer camp, run by Stanford Alumni
