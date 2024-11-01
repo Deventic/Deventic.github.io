@@ -1,6 +1,8 @@
 ## **Syed Muhammad Fardeen Raza**
 +92 0333-3300475
+
 fardeenraza@gmail.com
+
 131-D, PGECS Phase 2, Lahore, Pakistan
 
 
