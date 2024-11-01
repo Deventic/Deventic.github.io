@@ -1,10 +1,4 @@
 ## **Syed Muhammad Fardeen Raza**
-+92 0333-3300475
-
-fardeenraza@gmail.com
-
-131-D, PGECS Phase 2, Lahore, Pakistan
-
 
 I'm an aspiring software engineer with a passion for Computer Science, specifically in Data Science and Machine Learning.
 With two years of experience in Python and C#, I'm eager to deepen my knowledge and skills in these fields.
