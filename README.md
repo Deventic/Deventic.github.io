@@ -3,11 +3,10 @@
 fardeenraza@gmail.com
 131-D, PGECS Phase 2, Lahore, Pakistan
 
-------------------------------------------
-	I'm an aspiring software engineer with a passion for Computer Science, specifically in Data Science and Machine Learning.
- 	With two years of experience in Python and C#, I'm eager to deepen my knowledge and skills in these fields.
-  	I'm excited about the potential of data-driven solutions and am committed to leveraging technology to create innovative applications.
-------------------------------------------
+
+I'm an aspiring software engineer with a passion for Computer Science, specifically in Data Science and Machine Learning.
+With two years of experience in Python and C#, I'm eager to deepen my knowledge and skills in these fields.
+I'm excited about the potential of data-driven solutions and am committed to leveraging technology to create innovative applications.
 # Education
 ### O Levels (2020-2023)
 Studied at Lahore Grammar School, Township Branch, Lahore
