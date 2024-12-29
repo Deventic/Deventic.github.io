@@ -2816,7 +2816,7 @@ td:last-child {
 
 .list-items__item-title,
 .list-items__item-small-title {
-	color     : rgba(255, 255, 255, 0.616);
+	color     : rgb(255, 255, 255);
 	margin-top: 0;
 }
 
@@ -2906,7 +2906,7 @@ td:last-child {
 }
 
 .blog-card__title a {
-	color: var(--color-text-dark);
+	color: white;
 }
 
 /* --------------------------------------------------------------------
@@ -3507,7 +3507,7 @@ td:last-child {
 .s-pageheader {
 	padding-top     : var(--vspace-6);
 	padding-bottom  : var(--vspace-3);
-	background-color: #080808;
+	background-color: #000000;
 	text-align      : center;
 }
 
